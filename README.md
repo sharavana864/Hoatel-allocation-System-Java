@@ -94,16 +94,3 @@ String url = "jdbc:mysql://localhost:3306/hostel_db";
 String user = "root";
 String password = "$$$$$";
 
-📸 GUI Preview (Optional)
-
-You can add screenshots here (if you have images):
-
-![Allocation Screen](screenshots/allocate.png)
-
-Fork this repository
-
-Create a feature branch
-
-Commit your changes
-
-Open a pull request
